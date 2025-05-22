@@ -52,4 +52,4 @@ andina-reniec-auth/
 ```
 
 ---
-Desarrollado por ben1998pe para el test técnico de Andina Digital
+Desarrollado por ben1998pe

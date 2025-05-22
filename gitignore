@@ -1,0 +1,34 @@
+# Composer
+/vendor/
+/composer.lock
+
+# WordPress
+wp-content/uploads/
+wp-content/cache/
+*.log
+*.sql
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backups
+*.bak
+*.old
+*.orig
+*.swp
+
+# Node/npm (if ever used)
+/node_modules/
+package-lock.json
+yarn.lock

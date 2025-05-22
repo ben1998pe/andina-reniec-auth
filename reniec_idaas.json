@@ -1,0 +1,8 @@
+{
+  "client_id": "demo-client-id",
+  "client_secret": "demo-client-secret",
+  "redirect_uri": "http://localhost/legadodeportivo/callback",
+  "scope": "profile openid",
+  "acr": "pki_dnie",
+  "auth_uri": "https://api.idperu.pe/oauth2/authorize"
+}

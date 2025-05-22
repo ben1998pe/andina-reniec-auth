@@ -1,0 +1,23 @@
+
+.reniec-login {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.reniec-btn {
+  display: inline-block;
+  background: linear-gradient(90deg, #0073aa, #005177);
+  color: #ffffff;
+  padding: 0.8rem 2rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.reniec-btn:hover {
+  background: linear-gradient(90deg, #005177, #003d5c);
+  transform: scale(1.05);
+}

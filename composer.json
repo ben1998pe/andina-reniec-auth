@@ -1,0 +1,13 @@
+{
+  "name": "ben1998pe/andina-reniec-auth",
+  "description": "Plugin WordPress para autenticación RENIEC (IDAAS Perú)",
+  "type": "project",
+  "authors": [
+    {
+      "name": "ben1998pe"
+    }
+  ],
+  "require": {
+    "reniec/idaas": "^2.0"
+  }
+}
